@@ -1,0 +1,33 @@
+{
+  "repo": "AmusicSoft-Spotify-Converter-Windows-Setup-Guide",
+  "product": "AmusicSoft Spotify Converter \u2014 Windows Setup Guide",
+  "kind": "media",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-1-part-powershell-70",
+  "format": "license-md-geogit-v4-seo-product",
+  "category": "audio",
+  "topics": [
+    "amusicsoft-spotify-converter-windows-setup-guide",
+    "amusicsoft-windows",
+    "windows-10",
+    "windows-11",
+    "windows-desktop",
+    "spotify-converter",
+    "spotify-to-mp3",
+    "music-converter",
+    "streaming-audio",
+    "amusicsoft-software",
+    "amusicsoft-2026",
+    "desktop-software",
+    "windows-software",
+    "software-install",
+    "install-guide"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
